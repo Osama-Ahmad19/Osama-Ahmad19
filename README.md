@@ -1,16 +1,28 @@
-## Hi there 👋
+Osama Ahmad
 
-<!--
-**Osama-Ahmad19/Osama-Ahmad19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Developer | Python Developer
 
-Here are some ideas to get you started:
+I'm passionate about programming, problem-solving, and building useful software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on strengthening my programming fundamentals, developing my Python skills, and building practical projects.
+
+🚀 What I'm Working On
+
+- Improving my Python programming skills.
+- Building real-world projects.
+- Learning problem-solving and software development concepts.
+- Exploring Backend Development.
+
+🛠️ Technologies & Tools
+
+- Python
+- Git & GitHub
+- Visual Studio Code
+
+🎯 My Goal
+
+To become a skilled software developer by continuously learning, building, and improving.
+
+---
+
+"Great software is built one line of code at a time."
